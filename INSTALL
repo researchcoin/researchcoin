@@ -1,0 +1,9 @@
+Building Researchcoin
+
+See doc/readme-qt.rst for instructions on building Researchcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Researchcoin.
+
+See doc/build-*.txt for instructions on building researchcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Researchcoin.
